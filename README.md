@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fotino21
-- 👀 I’m interested in Artificial Intelligence, Data Science and Machine Learning
-- 🌱 I’m currently learning software engineering methods and machine learning models
+- 👀 I’m interested in Artificial Intelligence, Finance, and Blockchain.
+- 🌱 I’m currently developing a trading bot: https://alpha-trading-bot.streamlit.app/
 - 💞️ I’m looking to collaborate on internships
 - 📫 How to reach me ataturhan21@gmail.com
 
