@@ -3,7 +3,7 @@
 - 🌱 I’m currently developing a trading bot: https://alpha-trading-bot.streamlit.app/
 - 💞️ I’m looking to collaborate on internships
 - 📫 How to reach me ataturhan21@gmail.com
-- ![image](https://user-images.githubusercontent.com/78141172/210167907-e36d69d5-029e-413a-8ec4-3bd7a69c8cf4.png)
+- ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
  My LinkedIn Profile: https://www.linkedin.com/in/ata-turhan-555b5b160/
 
 <!---
