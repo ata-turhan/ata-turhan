@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on internships
 - 📫 How to reach me ataturhan21@gmail.com
 - ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
- My LinkedIn Profile: https://www.linkedin.com/in/ata-turhan-555b5b160/
+https://www.linkedin.com/in/ata-turhan-555b5b160/
 
 <!---
 fotino21/fotino21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
