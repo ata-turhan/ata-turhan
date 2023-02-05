@@ -5,7 +5,8 @@
 - 📫 You reach me via ataturhan21@gmail.com
 
 [![Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ata-turhan-555b5b160/)
-[![Follow](Medium)](https://medium.com/@olympian_21)
+<!---[![Follow](Medium)](https://medium.com/@olympian_21)
+--->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olympian-21)](https://github.com/anuraghazra/github-readme-stats)
 
