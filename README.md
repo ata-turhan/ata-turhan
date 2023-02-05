@@ -5,7 +5,7 @@
 - 📫 You reach me via ataturhan21@gmail.com
 - [![Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ata-turhan-555b5b160/)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=olympian-21)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=olmypian-21&theme=dark)](https://git.io/streak-stats)
 
 <!---
 fotino21/fotino21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
