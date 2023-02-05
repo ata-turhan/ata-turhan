@@ -8,11 +8,11 @@
 <!---[![Follow](Medium)](https://medium.com/@olympian_21)
 --->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olympian-21)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Ata's github stats](https://github-readme-stats.vercel.app/api?username=olympian-21&count_private=true&show_icons=true&theme=dark&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=olympian-21&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olympian-21)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 fotino21/fotino21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
