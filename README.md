@@ -17,7 +17,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olympian-21&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olympian-21)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olympian-21&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 fotino21/fotino21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
