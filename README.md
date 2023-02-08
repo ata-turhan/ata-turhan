@@ -17,6 +17,8 @@
   <img width="70%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olympian-21&theme=dark" alt="Ata's top lang stats"/>
 </div>
 
+![My Skills](https://skillicons.dev/icons?i=py,git,github,java,c,keras,tensorflow)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 <div align="center">
