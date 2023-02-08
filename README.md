@@ -17,9 +17,11 @@
   <img width="70%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olympian-21&theme=dark" alt="Ata's top lang stats"/>
 </div>
 
-<h1><center> 🛠 &nbsp;Languages and Tools </h1></center>
+<div align="center"> 
+  <h1><center> 🛠 &nbsp;Languages and Tools </h1></center>
 
-![My Skills](https://skillicons.dev/icons?i=git,github,py,java,c,matlab,html,javascript,tensorflow)
+  ![My Skills](https://skillicons.dev/icons?i=git,github,py,java,c,matlab,html,javascript,tensorflow)
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
