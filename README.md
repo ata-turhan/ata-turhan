@@ -18,6 +18,7 @@
 </div>
 
 <h1><center> 🛠 &nbsp;Languages and Tools </h1></center>
+
 ![My Skills](https://skillicons.dev/icons?i=git,github,py,java,c,matlab,html,javascript,tensorflow)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
