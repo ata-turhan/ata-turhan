@@ -25,5 +25,5 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/ata-turhan-555b5b160/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://t.me/mortal_olympian"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="[https://steamcommunity.com/id/DG404/](https://medium.com/@olympian_21)"><img src="https://img.shields.io/badge/@olmypian_21-black?style=flat&logo=medium&logoColor=white&link=https://medium.com/@olmypian_21"></a>
+  <a href="https://medium.com/@olympian_21"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 </div>
