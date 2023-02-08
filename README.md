@@ -4,11 +4,6 @@
 - 💞️ I’m looking to collaborate on internships
 - 📫 You reach me via ataturhan21@gmail.com
 
-[![Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ata-turhan-555b5b160/)
-<!---[![Follow](Medium)](https://medium.com/@olympian_21)
---->
-
-
 <div align="center">  
   <img width="45%" height="250px" src="https://github-readme-stats.vercel.app/api?username=olympian-21&count_private=true&show_icons=true&theme=dark&hide_rank=false" alt="Ata's github stats" /> 
   <img width="45%" height="260px" src="https://streak-stats.demolab.com?user=olympian-21&theme=dark" alt="Ata's github streak stats"/>
