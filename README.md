@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence, Finance, and Blockchain.
 - 🌱 I’m currently developing a trading bot: https://alpha-trading-bot.streamlit.app/
 - 💞️ I’m looking to collaborate on internshipsi part-time and full-time work.
-- 📫 You reach me via ataturhan21@gmail.com
+- 📫 You can reach me via ataturhan21@gmail.com
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=olympian-21&style=flat-square&color=blue" alt=""></p>
 
