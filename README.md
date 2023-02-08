@@ -10,12 +10,14 @@
 
 
 <div align="center">  
-  <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api?username=olympian-21&count_private=true&show_icons=true&theme=dark&hide_rank=false" alt="Ata's github stats" /> 
-  <img width="45%" height="200px" src="https://streak-stats.demolab.com?user=olympian-21&theme=dark" alt="Ata's github streak stats"/>
+  <img width="45%" height="250px" src="https://github-readme-stats.vercel.app/api?username=olympian-21&count_private=true&show_icons=true&theme=dark&hide_rank=false" alt="Ata's github stats" /> 
+  <img width="45%" height="260px" src="https://streak-stats.demolab.com?user=olympian-21&theme=dark" alt="Ata's github streak stats"/>
 </div>
 
+<br> <br>
+
 <div align="center">  
-  <img width="60%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olympian-21&theme=dark" alt="Ata's top lang stats"/>
+  <img width="70%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olympian-21&theme=dark" alt="Ata's top lang stats"/>
 </div>
 
 <!---
