@@ -18,7 +18,7 @@
 </div>
 
 <div align="center"> 
-[![trophy](https://github-profile-trophy.vercel.app/?username=olympian-21&theme=tokyonight&bg_color=000000)](https://github.com/olympian-21/github-profile-trophy)
+  <img width="70%" height="250px" src="https://github-profile-trophy.vercel.app/?username=olympian-21&theme=tokyonight&bg_color=000000" alt="Ata's GitHub Trophies"/>
 </div>
 
 <div align="center"> 
