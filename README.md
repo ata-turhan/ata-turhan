@@ -17,6 +17,8 @@
   <img width="70%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olympian-21&theme=dark" alt="Ata's top lang stats"/>
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=olympian-21&theme=tokyonight&bg_color=000000)](https://github.com/olympian-21/github-profile-trophy)
+
 <div align="center"> 
   <h1><center> 🛠 &nbsp;Languages and Tools </h1></center>
 
