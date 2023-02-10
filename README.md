@@ -22,7 +22,7 @@
 </div>
 
 <div align="center"> 
-  <h1><center> 💻 Tech Stack: </h1></center>
+  <h1><center> 💻 Tech Stack </h1></center>
 
   ![My Skills](https://skillicons.dev/icons?i=git,github,py,java,c,matlab,html,javascript,tensorflow,mysql)
 </div>
