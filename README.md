@@ -25,7 +25,7 @@
   <h1><center> 💻 Tech Stack </h1></center>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,py,r,java,c,matlab,html,javascript,react,tensorflow,mysql,postgresql,flask,azure,aws,docker&perline=7" />
+    <img src="https://skillicons.dev/icons?i=git,github,jenkins,py,r,java,c,cpp,bash,matlab,html,javascript,ts,solidity,react,django,fastapi,flask,postman,tensorflow,pytorch,sqlite,mysql,postgresql,azure,aws,docker,devto,discord,visualstudio&perline=10" />
     </a>
   </p>
 </div>
