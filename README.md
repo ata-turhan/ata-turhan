@@ -23,9 +23,14 @@
 
 <div align="center"> 
   <h1><center> 💻 Tech Stack </h1></center>
-
-  ![My Skills](https://skillicons.dev/icons?i=git,github,py,r,java,c,matlab,html,javascript,react,tensorflow,mysql,postgresql,flask,azure,aws,docker)
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,py,r,java,c,matlab,html,javascript,react,tensorflow,mysql,postgresql,flask,azure,aws,docker&perline=7" />
+    </a>
+  </p>
 </div>
+
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
