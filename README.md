@@ -7,7 +7,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=olympian-21&style=flat-square&color=blue" alt=""></p>
 
 <a href="https://github.com/berkayalan">
-    <img src="https://github-stats-alpha.vercel.app/api?username=olympian-21&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+    <img src="https://github-stats-alpha.vercel.app/api?username=olympian-21&cc=22272e&tc=37BCF6&ic=fff&bc=0000&theme=dark">
 </a>
 
 <div align="center">  
