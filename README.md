@@ -18,6 +18,8 @@
   <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=olympian-21&theme=2077" alt="Ata's top lang stats per commit"/>
 </div>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olympian-21&theme=2077)
+
 <div align="center"> 
   <img width="70%" height="250px" src="https://github-profile-trophy.vercel.app/?username=olympian-21&theme=tokyonight&bg_color=000000" alt="Ata's GitHub Trophies"/>
 </div>
