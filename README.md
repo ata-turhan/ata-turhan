@@ -11,7 +11,7 @@
 </a>
 
 <div align="center">  
-  <img width="45%" height="250px" src="https://github-stats-alpha.vercel.app/api?username=olympian-21&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="Ata's github stats" /> 
+  <img width="45%" height="250px" src="https://github-stats-alpha.vercel.app/api?username=olympian-21&cc=000&tc=fff&ic=fff&bc=000" alt="Ata's github stats" /> 
   <img width="45%" height="260px" src="https://streak-stats.demolab.com?user=olympian-21&theme=dark" alt="Ata's github streak stats"/>
 </div>
 
