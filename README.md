@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olympian-21&theme=2077)
+  <img width="90%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olympian-21&theme=2077" alt="Ata's profile details" /> 
 </div>
 
 <div align="center"> 
