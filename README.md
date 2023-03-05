@@ -25,7 +25,7 @@
 </div>
 
 <div align="center"> 
-  <img width="70%" height="250px" src="https://github-profile-trophy.vercel.app/?username=olympian-21&theme=tokyonight&bg_color=000000" alt="Ata's GitHub Trophies"/>
+  <img width="70%" height="250px" src="https://github-profile-trophy.vercel.app/?username=olympian-21&theme=onedark&bg_color=000000" alt="Ata's GitHub Trophies"/>
 </div>
 
 <div align="center"> 
