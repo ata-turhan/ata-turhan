@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ata Turhan.
 - 👀 I’m interested in Artificial Intelligence, Finance, and Blockchain.
-- 🌱 I’m currently developing a trading bot: https://alpha-trading-bot.streamlit.app/
+- 🌱 I’m currently developing a trading bot: https://alpha-tradingbot.streamlit.app/
 - 💞️ I’m looking to collaborate on internships, part-time and full-time work.
 - 📫 You can reach me via ataturhan21@gmail.com
 
