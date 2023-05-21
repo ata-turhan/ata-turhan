@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ata Turhan.
 - 👀 I’m interested in Artificial Intelligence, Finance, and Blockchain.
-- 🌱 You can see my online portfolia at: (https://www.datascienceportfol.io/ata_turhan)
+- 🌱 You can see my online CV at: (https://www.datascienceportfol.io/ata_turhan)
 - 💞️ I’m looking to collaborate on internships, part-time and full-time work.
 - 📫 You can reach me via ataturhan21@gmail.com
 
