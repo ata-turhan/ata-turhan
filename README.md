@@ -26,7 +26,7 @@
 
 
 <br/>  
-  <h3>🏆 GitHub Profile Trophy</h3>
+  <h3><center>🏆 GitHub Profile Trophy</center></h3>
  <div>
   <img width=1000 src="https://github-profile-trophy.vercel.app/?username=olympian-21&theme=onedark&bg_color=000000&column=-1"/>
 </div>
@@ -34,7 +34,7 @@
 <br/> 
 
 <div align="center"> 
-  <h1><center> 💻 Tech Stack </h1></center>
+  <h1><center> 💻 Tech Stack </center></h1>
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,jenkins,py,r,java,c,cpp,bash,matlab,html,javascript,ts,solidity,react,django,fastapi,flask,postman,tensorflow,pytorch,sqlite,mysql,postgresql,azure,aws,docker,devto,discord,visualstudio&perline=10" />
