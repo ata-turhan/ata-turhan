@@ -24,14 +24,11 @@
   <img width="90%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olympian-21&theme=2077" alt="Ata's profile details" /> 
 </div>
 
-<div align="center"> 
-  <img width="70%" height="250px" src="https://github-profile-trophy.vercel.app/?username=olympian-21&theme=onedark&bg_color=000000" alt="Ata's GitHub Trophies"/>
-</div>
 
 <br/>  
   <h3>🏆 GitHub Profile Trophy</h3>
  <div>
-  <img width=810 src="https://github-profile-trophy.vercel.app/?username=olympian-21&theme=onedark&bg_color=000000&column=-1"/>
+  <img width=910 src="https://github-profile-trophy.vercel.app/?username=olympian-21&theme=onedark&bg_color=000000&column=-1"/>
 </div>
 <hr>
 <br/> 
