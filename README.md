@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on internships, part-time and full-time work.
 - 📫 You can reach me via ataturhan21@gmail.com
 
+<br>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=olympian-21&style=flat-square&color=blue" alt=""></p>
 
 <div align="center">  
