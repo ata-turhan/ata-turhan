@@ -32,7 +32,6 @@
  <div>
   <img width=1000 src="https://github-profile-trophy.vercel.app/?username=olympian-21&theme=onedark&bg_color=000000&column=-1"/>
 </div>
-<hr>
 <br/> 
 
 <div align="center"> 
