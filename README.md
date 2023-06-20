@@ -12,7 +12,6 @@
   <img width="45%" height="250px" src="https://streak-stats.demolab.com?user=olympian-21&theme=dark" alt="Ata's github streak stats"/>
 </div>
 
-
 <div align="center">  
   <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olympian-21&theme=2077" alt="Ata's top lang stats per repo"/>
   <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=olympian-21&theme=2077" alt="Ata's top lang stats per commit"/>
@@ -33,8 +32,6 @@
     </a>
   </p>
 </div>
-
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
