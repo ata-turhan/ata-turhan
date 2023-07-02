@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ata Turhan.
-- 🧠 I’m interested in Artificial Intelligence, Finance, and Blockchain.
+- 🧠 I’m interested in Artificial Intelligence and Finance.
 - 🔗 You can see my Linktree account at: (https://linktr.ee/ataturhan)
 - 💼 You can see my portfolio at: (https://www.datascienceportfol.io/ata_turhan)
 - 🤝 I’m looking to collaborate on internships, part-time work and full-time work.
