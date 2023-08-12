@@ -9,7 +9,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=olympian-21&style=flat-square&color=blue" alt=""></p>
 
 <div align="center">  
-  <img width="45%" height="250px" src="https://github-stats-alpha.vercel.app/api?username=olympian-21&cc=000&tc=fff&ic=fff&bc=000" alt="Ata's github stats" /> 
+  <img width="45%" height="250px" src="https://github-stats-alpha.vercel.app/api?username=olympian-21&cc=000&tc=fff&ic=fff&bc=000&rank_icon=percentile" alt="Ata's github stats" /> 
   <img width="45%" height="250px" src="https://streak-stats.demolab.com?user=olympian-21&theme=dark" alt="Ata's github streak stats"/>
 </div>
 
