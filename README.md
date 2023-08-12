@@ -14,7 +14,8 @@
 </div>
 
 <div align="center">  
-  <img width="90%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olympian-21&layout=compact" alt="Ata's top lang stats"/>
+  <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olympian-21&theme=2077" alt="Ata's top lang stats per repo"/>
+  <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=olympian-21&theme=2077" alt="Ata's top lang stats per commit"/>
 </div>
 
 <div align="center"> 
