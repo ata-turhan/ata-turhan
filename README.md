@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ata Turhan.
 - 🧠 I’m interested in Artificial Intelligence and Finance.
 - 🔗 You can see my CV, portfolio, Hackerrank profile, and more on [my Linktree account](https://linktr.ee/ataturhan)
-- 🤝 I’m looking to collaborate on internships, part-time work and full-time work.
+- 🤝 I’m looking to collaborate on freelance, part-time and full-time work.
 - 📫 You can reach me via ataturhan21@gmail.com
 
 <br>
