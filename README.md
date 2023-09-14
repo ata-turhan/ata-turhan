@@ -40,7 +40,7 @@
   </a>
   <a href="mailto:ataturhan@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
   </a>
-  <a href="https://www.hackerrank.com/ataturhan21?hr_r=1"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank">
+  <a href="https://www.hackerrank.com/invictus21"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank">
   </a>
   <a href="https://www.kaggle.com/invictus21"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle">
   </a>
