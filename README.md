@@ -44,7 +44,7 @@
   </a>
   <a href="https://www.kaggle.com/invictus21"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle">
   </a>
-  <a href="https://medium.com/@invictus_21"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+  <a href="https://medium.com/@invictus-21"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
   </a>
   <a href="https://t.me/invictus21"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
