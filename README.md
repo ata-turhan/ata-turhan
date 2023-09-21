@@ -42,6 +42,8 @@
   </a>
   <a href="https://www.hackerrank.com/invictus21"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank">
   </a>
+  <a href="https://www.leetcode.com/invictus21"><img src="https://img.shields.io/badge/-Leetcode-2EC866?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode">
+  </a>
   <a href="https://www.kaggle.com/invictus21"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle">
   </a>
   <a href="https://medium.com/@invictus-21"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
