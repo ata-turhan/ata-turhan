@@ -19,6 +19,7 @@
 
 <div align="center">  
   <img width="45%" height="250px" src="https://stats.quine.sh/invictus-21/languages-over-time?theme=dark" alt="Ata's Languages Over Time"/>
+  <img width="45%" height="250px" src="https://stats.quine.sh/invictus-21/topics-over-time?theme=dark" alt="Ata's Topics Over Time"/>
 </div>
       
 
