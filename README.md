@@ -17,14 +17,10 @@
   <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=invictus-21&theme=2077" alt="Ata's top lang stats per commit"/>
 </div>
 
-<div align="center">
-   <div width="45%" height="250px">
-      
-      [![invictus-21's GitHub | Languages Over Time](https://stats.quine.sh/invictus-21/languages-over-time?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=invictus-21)
-      
-   </div>
+<div align="center">  
+  <img width="45%" height="250px" src="https://stats.quine.sh/invictus-21/languages-over-time?theme=dark" alt="Ata's Languages Over Time"/>
 </div>
-
+      
 
 
 <div align="center"> 
