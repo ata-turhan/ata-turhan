@@ -8,7 +8,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=invictus-21&style=flat-square&color=blue" alt=""></p>
 
 <div align="center">  
-   <img width="45%" height="250px" src="https://github-readme-stats.vercel.app/api?username=invictus-21&custom_title=%20GitHub%20Stats&show_icons=true&theme=holi&rank_icon=percentile" alt="Ata's github stats" /> 
+   <img width="45%" height="240px" src="https://github-readme-stats.vercel.app/api?username=invictus-21&custom_title=%20GitHub%20Stats&show_icons=true&theme=holi&rank_icon=percentile" alt="Ata's github stats" /> 
   <img width="45%" height="250px" src="https://streak-stats.demolab.com?user=invictus-21&theme=dark" alt="Ata's github streak stats"/>
 </div>
 
@@ -37,7 +37,7 @@
   <h1><center> 💻 Tech Stack </center></h1>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,jenkins,py,r,java,c,cpp,bash,matlab,html,javascript,ts,solidity,react,django,fastapi,flask,postman,tensorflow,pytorch,sqlite,mysql,postgresql,azure,aws,docker,devto,discord,visualstudio&perline=10" />
+    <img src="https://skillicons.dev/icons?i=git,github,jenkins,py,r,java,c,cpp,bash,matlab,html,javascript,ts,django,fastapi,flask,postman,tensorflow,pytorch,sqlite,mysql,postgresql,azure,aws,docker,visualstudio&perline=8" />
     </a>
   </p>
 </div>
