@@ -36,6 +36,8 @@
 <div align="center"> 
   <h1><center> 💻 Tech Stack </center></h1>
 
+
+| 💻 IDEs/Editors |
 |     :---:      |
 | 💻 IDEs/Editors |
 | ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) |
