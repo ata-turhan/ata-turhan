@@ -37,7 +37,7 @@
   <h1><center> 💻 Tech Stack </center></h1>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,c,bash,matlab,html,javascript,ts,fastapi,flask, selenium,postman,tensorflow,pytorch,sqlite,mysql,postgresql,mongodb,azure,docker,linux,bash,git,github,jenkins&perline=8" />
+    <img src="https://skillicons.dev/icons?i=py,java,c,bash,matlab,html,javascript,ts,fastapi,flask,selenium,postman,tensorflow,pytorch,sqlite,mysql,postgresql,mongodb,azure,docker,linux,bash,git,github,jenkins&perline=8" />
     </a>
   </p>
 </div>
