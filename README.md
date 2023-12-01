@@ -36,7 +36,7 @@
 <br>
 
 
-  <h1><center> 💻 Tech Stack </center></h1>
+
 
 
 | 💻 IDEs/Editors |
