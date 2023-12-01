@@ -33,6 +33,8 @@
   <img width=1000 src="https://github-profile-trophy.vercel.app/?username=invictus-21&theme=onedark&bg_color=000000&column=-1"/>
 </div>
 
+<br>
+
 <div align="center"> 
   <h1><center> 💻 Tech Stack </center></h1>
 
