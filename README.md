@@ -34,9 +34,11 @@
 </div>
 
 <br>
+<br>
 
-
-
+<div align="center"> 
+   <h1> 💻 Tech Stack </h1>
+</div>
 
 
 | 💻 IDEs/Editors |
