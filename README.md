@@ -44,7 +44,11 @@
 | 🕓 Version Control | 
 | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white) |
 
-
+<p align="center"> 
+  <a href = "https://leetcode.com/meteahmetyakar/">
+    <img src="https://leetcard.jacoblin.cool/invictus21?theme=unicorn&font=Almarai"/>
+  </a>
+</p> 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
