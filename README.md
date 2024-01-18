@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ata Turhan.
 - 🧠 I’m interested in Software Engineering, Artificial Intelligence, and Finance.
-- 🔗 You can see my CV, portfolio, Leetcode profile, and more on my [Linktree](https://linktr.ee/ataturhan) account.
-- 🤝 I’m looking to collaborate on freelance, part-time and full-time work.
+- 🔗 You can see my CV, Linkedin, Leetcode profile, and more on my [Linktree](https://linktr.ee/ataturhan) account.
+- 🤝 I’m looking to collaborate on full-time work.
 - 📫 You can reach me via ataturhan21@gmail.com
 
 <br>
