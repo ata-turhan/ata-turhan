@@ -43,8 +43,6 @@
 | 🕓 Version Control | 
 | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white) |
 
-<br>
-
 <p align="center"> 
   <a href = "https://leetcode.com/invictus21/">
     <img src="https://leetcard.jacoblin.cool/invictus21?theme=unicorn&font=Almarai"/>
