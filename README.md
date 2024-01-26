@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ata Turhan.
 - 🧠 I’m interested in Software Engineering, Artificial Intelligence, and Finance.
 - 🔗 You can see my [CV](https://ugc.production.linktr.ee/3d14a7ce-92c1-4e7b-9502-41e4098c0de1_CV---Ata-Turhan.pdf), [Linkedin](https://www.linkedin.com/in/ata-turhan/), and more on my [Linktree](https://linktr.ee/ataturhan) account.
-- 🤝 I’m looking for a full-time job.
+- 💼 I’m looking for a full-time job.
 - 📫 You can reach me via ataturhan21@gmail.com.
 
 <br>
