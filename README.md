@@ -2,12 +2,14 @@
 
 <div style="font-size:4em;">
         
-- 🎓 4.0 GPA in both Bachelor's and Master's degrees in Artificial Intelligence and Software Engineering 
-- 💻 Solved over 1,000 LeetCode problems 
+- 🚀 1 year of experience as a Machine Learning Engineer, building scalable solutions and developing advanced models using technologies like Python, TensorFlow, and PyTorch.
+- 🎓 4.0/4.0 GPA in both Bachelor's and Master's degrees in Artificial Intelligence and Computer Science
+- 💻 Solved over 1,100 LeetCode problems 
 - 🏅 Active Kaggle contributor 
-- 📜 Earned 10+ skill certificates on HackerRank, 5 cloud certifications for Microsoft Azure
-- 🔧 Made 2,500+ contributions on GitHub 
-- 🔗 You can see my [CV](https://ugc.production.linktr.ee/3fc2a8ba-6e6a-4fcc-a118-084e2489f2c3_CV---Ata-Turhan.pdf), [Linkedin](https://www.linkedin.com/in/ataturhan/), and more on my [Linktree](https://linktr.ee/ataturhan) account.
+- 📜 Earned 10+ skill certificates on HackerRank , 5 cloud certifications for Microsoft Azure
+- 🔧 Made 3,000+ contributions on GitHub 
+- 🤖 Proficient in leveraging generative AI models and tools to develop innovative solutions
+- 🔗 You can see my [CV](https://ugc.production.linktr.ee/72738e85-c37c-488e-a253-056b40127696_CV---Ata-Turhan.pdf), [Linkedin](https://www.linkedin.com/in/ataturhan/), and more on my [Linktree](https://linktr.ee/ataturhan) account.
 - 📫 You can reach me via ataturhan21@gmail.com.
 
 Let's shape the future of Artificial Intelligence together! 🚀
