@@ -6,6 +6,12 @@
 
 <br>
 
+<a href="https://ata-turhan.github.io/" target="_blank">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=ata-turhan&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
+</a>
+
+<br>
+
 <p align="center"><img src="https://komarev.com/ghpvc/?username=invictus-21&style=flat-square&color=blue" alt=""></p>
 
 <div align="center">  
