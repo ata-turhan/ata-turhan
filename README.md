@@ -12,23 +12,23 @@
 
 <br>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=invictus-21&style=flat-square&color=blue" alt=""></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=ata-turhan&style=flat-square&color=blue" alt=""></p>
 
 <div align="center">  
-   <img width="45%" height="240px" src="https://github-readme-stats.vercel.app/api?username=invictus-21&custom_title=%20GitHub%20Stats&show_icons=true&theme=holi&rank_icon=percentile" alt="Ata's github stats" /> 
-  <img width="45%" height="250px" src="https://streak-stats.demolab.com?user=invictus-21&theme=dark" alt="Ata's github streak stats"/>
+   <img width="45%" height="240px" src="https://github-readme-stats.vercel.app/api?username=ata-turhan&custom_title=%20GitHub%20Stats&show_icons=true&theme=holi&rank_icon=percentile" alt="Ata's github stats" /> 
+  <img width="45%" height="250px" src="https://streak-stats.demolab.com?user=ata-turhan&theme=dark" alt="Ata's github streak stats"/>
 </div>
 
 <div align="center">  
-  <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=invictus-21&theme=2077" alt="Ata's top lang stats per repo"/>
-  <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=invictus-21&theme=2077" alt="Ata's top lang stats per commit"/>
+  <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ata-turhan&theme=2077" alt="Ata's top lang stats per repo"/>
+  <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ata-turhan&theme=2077" alt="Ata's top lang stats per commit"/>
 </div>
 
 <div align="center"> 
   <h3> 🏆 GitHub Profile Trophy </h3>
 </div>
  <div>
-  <img width=1000 src="https://github-profile-trophy.vercel.app/?username=invictus-21&theme=onedark&bg_color=000000&column=-1"/>
+  <img width=1000 src="https://github-profile-trophy.vercel.app/?username=ata-turhan&theme=onedark&bg_color=000000&column=-1"/>
 </div>
 
 <div align="center"> 
