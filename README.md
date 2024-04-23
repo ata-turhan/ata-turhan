@@ -20,6 +20,11 @@
 </div>
 
 <div align="center">  
+  
+  <img width="90%" height="250px" src="https://myreadme.vercel.app/api/embed/ata-turhan?panels=userstatistics,toprepositories,toplanguages,commitgraph&theme=dark" alt="Ata's github extra stats"/>
+</div>
+
+<div align="center">  
   <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ata-turhan&theme=2077" alt="Ata's top lang stats per repo"/>
   <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ata-turhan&theme=2077" alt="Ata's top lang stats per commit"/>
 </div>
