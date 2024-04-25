@@ -58,7 +58,7 @@
 
 <p align="center"> 
   <a href = "https://leetcode.com/invictus21/">
-    <img src="https://leetcard.jacoblin.cool/invictus21?theme=unicorn&font=Almarai"/>
+    <img src="https://leetcard.jacoblin.cool/ataturhan?theme=unicorn&font=Almarai"/>
   </a>
 </p> 
 
@@ -69,11 +69,11 @@
 <br>
 
 <div align="center">
-  <a href="https://www.leetcode.com/invictus21"><img src="https://img.shields.io/badge/-Leetcode-2EC866?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode">
+  <a href="https://www.leetcode.com/ataturhan"><img src="https://img.shields.io/badge/-Leetcode-2EC866?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode">
   </a>
   <a href="https://www.linkedin.com/in/ataturhan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.hackerrank.com/invictus21"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank">
+  <a href="https://www.hackerrank.com/ataturhan"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank">
   </a>
 
 </div>
