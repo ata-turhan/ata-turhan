@@ -57,7 +57,7 @@
 <br>
 
 <p align="center"> 
-  <a href = "https://leetcode.com/invictus21/">
+  <a href = "https://leetcode.com/ataturhan/">
     <img src="https://leetcard.jacoblin.cool/ataturhan?theme=unicorn&font=Almarai"/>
   </a>
 </p> 
