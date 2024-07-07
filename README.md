@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-<div style="font-size:30px;">
+<div style="font-size:40px;">
         
 - 🎓 4.0 GPA in both Bachelor's and Master's degrees in Artificial Intelligence and Software Engineering 
 - 💻 Solved over 1,000 LeetCode problems 
