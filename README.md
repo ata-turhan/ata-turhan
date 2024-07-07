@@ -1,5 +1,6 @@
 ![Header](./github-header-image.png)
 
+<h3>
 - 🎓 4.0 GPA in both Bachelor's and Master's degrees in Artificial Intelligence and Software Engineering 
 - 💻 Solved over 1,000 LeetCode problems 
 - 🏅 Active Kaggle contributor 
@@ -9,6 +10,7 @@
 - 📫 You can reach me via ataturhan21@gmail.com.
 
 Let's shape the future of Artificial Intelligence together! 🚀
+</h3>
 
 <br>
 
