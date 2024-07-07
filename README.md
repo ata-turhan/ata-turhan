@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-<h3>
+<div style="font-size:30px;">
 - 🎓 4.0 GPA in both Bachelor's and Master's degrees in Artificial Intelligence and Software Engineering 
 - 💻 Solved over 1,000 LeetCode problems 
 - 🏅 Active Kaggle contributor 
@@ -10,9 +10,9 @@
 - 📫 You can reach me via ataturhan21@gmail.com.
 
 Let's shape the future of Artificial Intelligence together! 🚀
-</h3>
+</div>
 
-<br>
+<div>
 
 <a href="https://ata-turhan.github.io/" target="_blank">
         <img src="https://github-widgetbox.vercel.app/api/profile?username=ata-turhan&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
