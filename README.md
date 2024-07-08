@@ -5,7 +5,7 @@
 - 🎓 4.0 GPA in both Bachelor's and Master's degrees in Artificial Intelligence and Software Engineering 
 - 💻 Solved over 1,000 LeetCode problems 
 - 🏅 Active Kaggle contributor 
-- 📜 Earned 10+ skill certificates on HackerRank 
+- 📜 Earned 10+ skill certificates on HackerRank, 5 cloud certifications for Microsoft Azure
 - 🔧 Made 2,500+ contributions on GitHub 
 - 🔗 You can see my [Resume](https://ugc.production.linktr.ee/8613dd81-3b9b-4a53-9d71-d2272990861b_Resume---Ata-Turhan.pdf), [Linkedin](https://www.linkedin.com/in/ataturhan/), and more on my [Linktree](https://linktr.ee/ataturhan) account.
 - 📫 You can reach me via ataturhan21@gmail.com.
