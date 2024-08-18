@@ -72,7 +72,7 @@ Let's shape the future of Artificial Intelligence together! 🚀
 
 <p align="center"> 
   <a href = "https://leetcode.com/ataturhan/">
-    <img src="https://leetcard.jacoblin.cool/ataturhan?theme=unicorn&font=Almarai"/>
+    <img src="https://leetcard.jacoblin.cool/ataturhan?theme=unicorn&font=Almarai&ext=contest"/>
   </a>
 </p> 
 
