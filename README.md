@@ -7,7 +7,7 @@
 - 🏅 Active Kaggle contributor 
 - 📜 Earned 10+ skill certificates on HackerRank, 5 cloud certifications for Microsoft Azure
 - 🔧 Made 2,500+ contributions on GitHub 
-- 🔗 You can see my [Resume](https://ugc.production.linktr.ee/8613dd81-3b9b-4a53-9d71-d2272990861b_Resume---Ata-Turhan.pdf), [Linkedin](https://www.linkedin.com/in/ataturhan/), and more on my [Linktree](https://linktr.ee/ataturhan) account.
+- 🔗 You can see my [CV](https://ugc.production.linktr.ee/3fc2a8ba-6e6a-4fcc-a118-084e2489f2c3_CV---Ata-Turhan.pdf), [Linkedin](https://www.linkedin.com/in/ataturhan/), and more on my [Linktree](https://linktr.ee/ataturhan) account.
 - 📫 You can reach me via ataturhan21@gmail.com.
 
 Let's shape the future of Artificial Intelligence together! 🚀
