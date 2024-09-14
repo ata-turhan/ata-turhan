@@ -76,13 +76,7 @@ Let's shape the future of Artificial Intelligence together! 🚀
   </a>
 </p> 
 
-
-  <video width="80%" controls>
-    <source src="https://user-images.githubusercontent.com/25702402/232766282-abdcb70b-bdfa-4a65-becb-f2239050ea25.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-
-
+https://user-images.githubusercontent.com/25702402/232766282-abdcb70b-bdfa-4a65-becb-f2239050ea25.mp4
 
 <br>
 
