@@ -2,17 +2,19 @@
 
 <div style="font-size:4em;">
         
-- 🚀 1 year of experience as a Machine Learning Engineer, building scalable solutions and developing advanced models using technologies like Python, TensorFlow, and PyTorch.
-- 🎓 4.0/4.0 GPA in both Bachelor's and Master's degrees in Artificial Intelligence and Computer Science
-- 💻 Solved over 1,100 LeetCode problems (top 1%)
-- 🏅 Active Kaggle contributor 
-- 📜 Earned 10+ skill certificates on HackerRank , 5 cloud certifications for Microsoft Azure
-- 🔧 Made 3,000+ contributions on GitHub 
-- 🤖 Proficient in leveraging generative AI models and tools to develop innovative solutions
+Hi, I'm Ata 👋 — a 10x engineer and full-time biohacker passionate about shaping the future of Artificial Intelligence.
+
+- 🚀 Machine Learning Engineer: Expert in building scalable solutions and developing advanced models using Python, TensorFlow, PyTorch, Scikit-learn, and MLflow.
+- 🎓 Academic Excellence: Achieved a perfect 4.0/4.0 GPA in both Bachelor's and Master's degrees in Artificial Intelligence and Computer Science.
+- 💻 Problem-Solving Expertise: Solved over 1,200 LeetCode problems and achieved a top 1% global ranking in contests, showcasing exceptional algorithmic and coding skills.
+- 🏅 Kaggle Contributor: Active in the data science community, continuously pushing the boundaries of innovation.
+- 📜 Certified Professional: Earned 10+ skill certifications on HackerRank, 5 Microsoft Azure cloud certifications, and additional notable credentials.
+- 🔧 GitHub Contributor: Made ~4,000 contributions, highlighting dedication to open-source collaboration and continuous learning.
+- 🤖 Generative AI Innovator: Proficient in leveraging cutting-edge generative AI tools and models to deliver impactful solutions.
 - 🔗 You can see my [CV](https://ugc.production.linktr.ee/72738e85-c37c-488e-a253-056b40127696_CV---Ata-Turhan.pdf), [Linkedin](https://www.linkedin.com/in/ataturhan/), and more on my [Linktree](https://linktr.ee/ataturhan) account.
 - 📫 You can reach me via ataturhan21@gmail.com.
 
-Let's shape the future of Artificial Intelligence together! 🚀
+Let’s build the future of Artificial Intelligence together! 🚀
 
 </div>
 
