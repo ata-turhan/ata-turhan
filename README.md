@@ -2,7 +2,7 @@
 
 <div style="font-size:4em;">
         
-Hi, I'm Ata 👋 — a 10x engineer and full-time biohacker passionate about shaping the future of Artificial Intelligence.
+Hi, I'm Ata 👋 — a ML engineer and full-time biohacker passionate about shaping the future of Artificial Intelligence.
 
 - 🚀 Machine Learning Engineer: Expert in building scalable solutions and developing advanced models using Python, TensorFlow, PyTorch, Scikit-learn, and MLflow.
 - 🎓 Academic Excellence: Achieved a perfect 4.0/4.0 GPA in both Bachelor's and Master's degrees in Artificial Intelligence and Computer Science.
