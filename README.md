@@ -6,7 +6,7 @@ Hi, I'm Ata 👋 — a ML engineer and full-time biohacker passionate about shap
 
 - 🚀 Machine Learning Engineer: Expert in building scalable solutions and developing advanced models using Python, TensorFlow, PyTorch, Scikit-learn, and MLflow.
 - 🎓 Academic Excellence: Achieved a perfect 4.0/4.0 GPA in both Bachelor's and Master's degrees in Artificial Intelligence and Computer Science.
-- 💻 Problem-Solving Expertise: Solved over 1,200 LeetCode problems and achieved a top 1% global ranking in contests, showcasing exceptional algorithmic and coding skills.
+- 💻 Problem-Solving Expertise: Solved over 1,300 LeetCode problems and achieved a top 1% global ranking in contests, showcasing exceptional algorithmic and coding skills.
 - 🏅 Kaggle Contributor: Active in the data science community, continuously pushing the boundaries of innovation.
 - 📜 Certified Professional: Earned 10+ skill certifications on HackerRank, 5 Microsoft Azure cloud certifications, and additional notable credentials.
 - 🔧 GitHub Contributor: Made ~4,000 contributions, highlighting dedication to open-source collaboration and continuous learning.
