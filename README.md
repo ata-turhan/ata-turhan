@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./github-header-image.jpg)
 
 <div style="font-size:4em;">
         
