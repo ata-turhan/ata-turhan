@@ -2,16 +2,14 @@
 
 <div style="font-size:4em;">
         
-Hi, I'm Ata 👋 — a ML engineer and full-time biohacker passionate about shaping the future of Artificial Intelligence.
+Hi, I'm Ata 👋 — a 10x engineer and full-time biohacker.
 
-- 🚀 Machine Learning Engineer: Expert in building scalable solutions and developing advanced models using Python, TensorFlow, PyTorch, Scikit-learn, and MLflow.
-- 🎓 Academic Excellence: Achieved a perfect 4.0/4.0 GPA in both Bachelor's and Master's degrees in Artificial Intelligence and Computer Science.
-- 💻 Problem-Solving Expertise: Solved over 1,300 LeetCode problems and achieved a top 1% global ranking in contests, showcasing exceptional algorithmic and coding skills.
-- 🏅 Kaggle Contributor: Active in the data science community, continuously pushing the boundaries of innovation.
-- 📜 Certified Professional: Earned 10+ skill certifications on HackerRank, 5 Microsoft Azure cloud certifications, and additional notable credentials.
-- 🔧 GitHub Contributor: Made ~4,000 contributions, highlighting dedication to open-source collaboration and continuous learning.
-- 🤖 Generative AI Innovator: Proficient in leveraging cutting-edge generative AI tools and models to deliver impactful solutions.
-- 🔗 You can see my [CV](https://ugc.production.linktr.ee/72738e85-c37c-488e-a253-056b40127696_CV---Ata-Turhan.pdf), [Linkedin](https://www.linkedin.com/in/ataturhan/), and more on my [Linktree](https://linktr.ee/ataturhan) account.
+- 🚀 Expert in building scalable solutions and developing advanced models using Python, TensorFlow, PyTorch, Scikit-learn, LangChain, LangGraph and MLflow.
+- 🎓 Achieved a perfect 4.0/4.0 GPA in both Bachelor's and Master's degrees in Artificial Intelligence and Computer Science.
+- 💻 Solved over 1,300 LeetCode problems and achieved a top 1% global ranking in contests.
+- 📜 Earned 10+ skill certifications on HackerRank, 5 Microsoft Azure cloud certifications, and additional notable credentials.
+- 🔧 Made ~5,000 contributions on GitHub.
+- 🔗 You can see my [Resume](https://ugc.production.linktr.ee/a96b1642-cb23-4913-87ac-cba34c73c8f6_Resume---Ata-Turhan.pdf), [Linkedin](https://www.linkedin.com/in/ataturhan/), and more on my [Linktree](https://linktr.ee/ataturhan) account.
 - 📫 You can reach me via ataturhan21@gmail.com.
 
 Let’s build the future of Artificial Intelligence together! 🚀
