@@ -2,7 +2,7 @@
 
 <div style="font-size:4em;">
         
-Hi, I'm Ata 👋 — a 10x engineer and full-time biohacker.
+Hi, I'm Ata 👋 — a 10x AI engineer and full-time biohacker.
 
 - 🚀 Expert in building scalable solutions and developing advanced models using Python, TensorFlow, PyTorch, Scikit-learn, LangChain, LangGraph and MLflow.
 - 🎓 Achieved a perfect 4.0/4.0 GPA in both Bachelor's and Master's degrees in Artificial Intelligence and Computer Science.
