@@ -2,11 +2,11 @@
 
 <div style="font-size:5em;">
         
-Hi, I'm Ata 👋 — a 10x AI engineer and full-time biohacker.
+Hi, I'm Ata 👋 a 10x AI engineer and full-time biohacker.
 
 - 🚀 Expert in building scalable solutions and developing advanced models using Python, TensorFlow, PyTorch, Scikit-learn, LangChain, LangGraph and MLflow.
 - 🎓 Achieved a perfect 4.0/4.0 GPA in both Bachelor's and Master's degrees in Artificial Intelligence and Computer Science.
-- 💻 Solved over 1,300 LeetCode problems and achieved a top 1% global ranking in contests.
+- 💻 Solved over 1,400 LeetCode problems and achieved a top 1% global ranking in contests.
 - 📜 Earned 10+ skill certifications on HackerRank, 5 Microsoft Azure cloud certifications, and additional notable credentials.
 - 🔧 Made ~5,000 contributions on GitHub.
 - 🔗 You can see my [Resume](https://ugc.production.linktr.ee/a96b1642-cb23-4913-87ac-cba34c73c8f6_Resume---Ata-Turhan.pdf), [Linkedin](https://www.linkedin.com/in/ataturhan/), and more on my [Linktree](https://linktr.ee/ataturhan) account.
