@@ -5,7 +5,7 @@
 Hi, I'm Ata 👋 a 10x AI engineer and full-time biohacker.
 
 - 🚀 Expert in building scalable solutions and developing advanced models using Python, TensorFlow, PyTorch, Scikit-learn, LangChain, LangGraph and MLflow.
-- 🎓 Achieved a perfect 4.0/4.0 GPA in both Bachelor's and Master's degrees in Artificial Intelligence and Computer Science.
+- 🎓 Achieved a 4.0/4.0 GPA in both Bachelor's and Master's degrees in Artificial Intelligence and Computer Science.
 - 💻 Solved over 1,400 LeetCode problems and achieved a top 1% global ranking in contests.
 - 📜 Earned 10+ skill certifications on HackerRank, 5 Microsoft Azure cloud certifications, and additional notable credentials.
 - 🔧 Made ~5,000 contributions on GitHub.
