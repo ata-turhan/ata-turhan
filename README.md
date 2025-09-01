@@ -4,6 +4,7 @@
         
 Hi, I'm Ata 👋 a 10x AI engineer and full-time biohacker.
 
+- 🥇 #1 contributor to HP’s most popular open-source GitHub repository, AI Blueprints, driving continuous improvements in code quality, documentation, and the addition of new local AI projects monthly.
 - 🚀 Expert in building scalable solutions and developing advanced models using Python, TensorFlow, PyTorch, Scikit-learn, LangChain, LangGraph and MLflow.
 - 🎓 Achieved a 4.0/4.0 GPA in both Bachelor's and Master's degrees in Artificial Intelligence and Computer Science.
 - 💻 Solved over 1,400 LeetCode problems and achieved a top 1% global ranking in contests.
