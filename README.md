@@ -13,7 +13,7 @@ Hi, I'm Ata 👋 a 10x AI engineer and full-time biohacker.
 - 🔗 You can see my [Resume](https://ugc.production.linktr.ee/a96b1642-cb23-4913-87ac-cba34c73c8f6_Resume---Ata-Turhan.pdf), [Linkedin](https://www.linkedin.com/in/ataturhan/), and more on my [Linktree](https://linktr.ee/ataturhan) account.
 - 📫 You can reach me via ataturhan21@gmail.com.
 
-Let’s build the future of Artificial Intelligence together! 🚀🚀🚀
+Let’s build the future of Artificial Intelligence together! 🚀🚀🚀🚀
 
 </div>
 
