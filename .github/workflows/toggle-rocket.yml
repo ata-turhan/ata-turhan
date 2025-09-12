@@ -1,0 +1,29 @@
+name: Toggle Rocket in Profile README
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Runs every day at midnight UTC
+  workflow_dispatch:       # Allow manual trigger too
+
+jobs:
+  toggle-rocket:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run toggle script
+        run: python .github/scripts/toggle_rocket.py
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "ata-turhan"
+          git config --global user.email "ataturhan21@gmail.com"
+          git add README.md
+          git commit -m "chore: toggle rocket in README"
+          git push
