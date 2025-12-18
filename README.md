@@ -2,7 +2,7 @@
 
 <div style="font-size:5em;">
         
-Hi, I'm Ata 👋 a 10x AI engineer and full-time biohacker.
+AI Engineer and Manager with an exceptionally high level of ownership and agency, consistently driving projects from conception to successful delivery. Demonstrates strong technical leadership, strategic thinking, and accountability, ensuring measurable impact, high execution standards, and sustained success across complex, cross-functional initiatives.
 
 - 🥇 #1 contributor to HP’s most popular open-source GitHub repository, AI Blueprints, driving continuous improvements in code quality, documentation, and the addition of new local AI projects.
 - 🚀 Expert in building scalable solutions and developing advanced models using Python, TensorFlow, PyTorch, Scikit-learn, LangChain, LangGraph and MLflow.
