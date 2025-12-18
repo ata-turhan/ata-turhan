@@ -4,13 +4,13 @@
         
 Hi, I'm Ata 👋 a 10x AI engineer and full-time biohacker.
 
-- 🥇 #1 contributor to HP’s most popular open-source GitHub repository, AI Blueprints, driving continuous improvements in code quality, documentation, and the addition of new local AI projects monthly.
+- 🥇 #1 contributor to HP’s most popular open-source GitHub repository, AI Blueprints, driving continuous improvements in code quality, documentation, and the addition of new local AI projects.
 - 🚀 Expert in building scalable solutions and developing advanced models using Python, TensorFlow, PyTorch, Scikit-learn, LangChain, LangGraph and MLflow.
 - 🎓 Achieved a 4.0/4.0 GPA in both Bachelor's and Master's degrees in Artificial Intelligence and Computer Science.
 - 💻 Solved ~1,500 LeetCode problems and achieved a top 1% global ranking in contests.
 - 📜 Earned 10+ skill certifications on HackerRank, 5 Microsoft Azure cloud certifications, and additional notable credentials.
 - 🔧 Made ~5,000 contributions on GitHub.
-- 🔗 You can see my [Resume](https://ugc.production.linktr.ee/a96b1642-cb23-4913-87ac-cba34c73c8f6_Resume---Ata-Turhan.pdf), [Linkedin](https://www.linkedin.com/in/ataturhan/), and more on my [Linktree](https://linktr.ee/ataturhan) account.
+- 🔗 You can view my resume and other related resources on my Linktree page: https://linktr.ee/ataturhan
 - 📫 You can reach me via ataturhan21@gmail.com.
 
 Let’s build the future of Artificial Intelligence together! 🚀
