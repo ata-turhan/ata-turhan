@@ -2,7 +2,7 @@
 
 <div style="font-size:5em;">
         
-AI Engineer and Manager with an exceptionally high level of ownership and agency, consistently driving projects from conception to successful delivery. Demonstrates strong technical leadership, strategic thinking, and accountability, ensuring measurable impact, high execution standards, and sustained success across complex, cross-functional initiatives.
+10x AI Engineer and Manager with an exceptionally high level of ownership and agency, consistently driving projects from conception to successful delivery. Demonstrates strong technical leadership, strategic thinking, and accountability, ensuring measurable impact, high execution standards, and sustained success across complex, cross-functional initiatives.
 
 - 🥇 #1 contributor to HP’s most popular open-source GitHub repository, AI Blueprints, driving continuous improvements in code quality, documentation, and the addition of new local AI projects.
 - 🚀 Expert in building scalable solutions and developing advanced models using Python, TensorFlow, PyTorch, Scikit-learn, LangChain, LangGraph and MLflow.
@@ -13,7 +13,7 @@ AI Engineer and Manager with an exceptionally high level of ownership and agency
 - 🔗 You can view my resume and other related resources on my Linktree page: https://linktr.ee/ataturhan
 - 📫 You can reach me via ataturhan21@gmail.com.
 
-Let’s build the future of Artificial Intelligence together!
+Let’s build the future of AI together! 🚀
 
 </div>
 
